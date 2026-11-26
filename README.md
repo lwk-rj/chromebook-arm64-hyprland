@@ -14,7 +14,7 @@ A lightweight, Wayland-native desktop setup and hardware-fix guide for running *
 | **Device** | HP Chromebook (ARM64) |
 | **Memory** | 4 GB RAM (~3.79 GiB usable) |
 | **OS** | Arch Linux ARM |
-| **Kernel** | `6.12.58-stb-cbm+` |
+| **Kernel** | `6.12.50-stb-cbm+` |
 | **Compositor / Shell** | Hyprland + Caelestia (Lua config) |
 | **Terminal / Shell** | `foot` + `fish` |
 | **Audio** | PipeWire + WirePlumber |
