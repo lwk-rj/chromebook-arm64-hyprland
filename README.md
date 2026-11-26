@@ -1,0 +1,1 @@
+# chromebook-arm64-hyprland
